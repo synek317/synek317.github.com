@@ -1,5 +1,3 @@
-aaa
-
 ---
 layout: post
 title: "Hello world"
@@ -9,4 +7,4 @@ tags: []
 ---
 {% include JB/setup %}
 
-bbb
+updated ccc bbb
