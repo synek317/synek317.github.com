@@ -15,6 +15,7 @@ Making some assumptions I've created something that one could call fully testabl
 How to KISS when developing application with complex domain? OOP is the ultimate answer since ages. It is so obvious, that some languages - like c#, java and many others - forces us to create object-oriented code. To deal with the mess that we used to create again and again, we use different design patterns that helps us to organize the code well. 'Mature' solutions contain well designed classes following SOLID rules with D = dependency injection being one of the most important part of it.
 
 What are the benefits? The biggest one is probably the possibility to unit test. The most naive - and my favorite - is just passing all dependencies in the constructor:
+
 ```c#
 class Reader
 {
@@ -32,6 +33,7 @@ class Reader
 ```
 
 This is extremely simple to test:
+
 ```csharp
 class ReaderTests
 {
