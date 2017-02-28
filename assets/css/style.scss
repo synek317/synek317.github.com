@@ -30,10 +30,23 @@ header a:hover {
   text-decoration: none;
 }
 
+a img {
+  border: none;
+}
+
 ul.post-list {
   list-style-type: none;
 }
 
 .post {
   padding-left: 20px;
+}
+
+#dsp2017 {
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 200px;
+  -webkit-box-shadow: none;
+  margin: 0;
 }
