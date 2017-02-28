@@ -4,6 +4,4 @@ title: O autorze
 permalink: /about/
 ---
 
-Marcin Sas-Szymański
-
-More details soon...
+{% include about.md %}

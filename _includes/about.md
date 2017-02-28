@@ -1,0 +1,3 @@
+Programowanie to moja pasja, przepadłem w wieku już około 9 lat pisząc swoje pierwsze programy w Atari BASICu. Do dziś pamiętam, jak za radą taty przez miesiąc w kółko czytałem rozdział o tablicach, zanim w końcu zrozumiałem, co to takiego. I od wtedy tak mi już zostało, poznaję różne języki, technologie i biblioteki i zawsze staram się zrozumieć, jak to wszystko działa. Choć programuję już od 20 lat, wciąż nie przestaje mnie to fascynować!
+
+Na co dzień pracuję w niewielkiej wrocławskiej firmie [anixe](http://anixe.pl). Zajmuję się tam tworzeniem oprogramowania wyliczającego ceny za pobyt w hotelu, co wberw pozorom bywa nietrywialnym zadaniem. W pracy używam głównie c# i ruby, ale ostatnimi czasy na nasze salony coraz śmielej wprasza się rust.
