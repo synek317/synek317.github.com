@@ -5,5 +5,7 @@ url: https://synek317.github.io
 title: Inteligentne miasto na 1001 sposobów
 description:  (lub trochę mniej)
 theme: jekyll-theme-slate
+disqus:
+  shortname: synek317
 gems:
   - jekyll-feed
