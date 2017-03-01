@@ -3,6 +3,7 @@ layout: post
 title:  "Inteligentne miasto - co to takiego?"
 date:   2017-02-28 13:17:38 +0100
 categories: inteligentne_miasto
+tags: [dsp2017]
 excerpt_separator:  <!--more-->
 ---
 
