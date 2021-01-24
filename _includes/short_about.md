@@ -1,0 +1,1 @@
+I've been a developer since the late 90's. I learned to code as a child. A child's brain is simple. So as a child, I learnt to write simple code. My body grew up but my brain remained simple. Simplicity is beauty.
