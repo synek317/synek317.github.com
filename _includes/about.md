@@ -4,8 +4,4 @@ I'm self-thought from the very beginning. I was given a coding book as a kid and
 
 I have been working at [anixe](http://anixe.pl) since 2012. We fetch there hotel's data from various sources and calculate prices for millions of possible stays. This includes dealing with multiple external systems of varying quality. What I like most is learning new data formats, analyzing discrepancies and optimizing the process. From the technical perspective, the most fascinating thing is we use [rust](http://rust-lang.org) alongside c# and ruby.
 
-Recently, I have been thinking about changing the domain from travel & tourism to healthcare or similar. Honestly, I came to this conclusion in the first weeks of the COVID. The healthcare industry seems to process and analze tons of fascinating data. I bet there is a lot of place for improvments, optimizations and discoveries!
-
-If you have any offer, please contact me at [synek317@gmail.com](synek317@gmail.com).
-
-{% include short_about.md %}
+You are welcome to contact me at [synek317@gmail.com](synek317@gmail.com).

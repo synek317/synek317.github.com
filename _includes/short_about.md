@@ -1,1 +1,3 @@
-I've been a developer since the late 90's. I learned to code as a child. A child's brain is simple. So as a child, I learnt to write simple code. My body grew up but my brain remained simple. Simplicity is beauty.
+<p>I've been a developer since the late 90's. I learned to code as a child. A child's brain is simple. So as a child, I learnt to write simple code. My body grew up but my brain remained simple. Simplicity is beauty.</p>
+
+<p>Side note: I'm not a native English speaker. I don't even think my english is good. If you spotted any gramatical error, let me know via <a href="mailto:synek317@gmail.com">e-mail</a> or just make a <a href="https://github.com/synek317/synek317.github.com/compare">pull request</a></p>
