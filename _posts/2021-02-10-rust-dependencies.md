@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Save (y(our time by reducing the number of required dependencies"
+title:  "Save (y)our time by reducing the number of required dependencies"
 date:   2020-01-24 21:17:00 +0100
 categories: rust
 tags: [rust]
@@ -70,15 +70,15 @@ If you only need some features of your dependencies for testing, then instead of
 
 ```toml
 [dependencies]
-aclr8 = { git = "ssh://git@git.anixe.pl/aclr8/aclr8.git", tag = "v15.0.0", default-features = false, features = ["utils", "test_utils"] }
+toml = { version = "0.5", features = ["preserve_order"] }
 ```
 
 do this:
 
 ```toml
 [dependencies]
-some = { version = "1.0.0", features = ["utils"] }
+toml = { version = "0.5" }
 
 [dev-dependencies]
-aclr8 = { git = "ssh://git@git.anixe.pl/aclr8/aclr8.git", tag = "v15.0.0", default-features = false, features = ["test_utils"] }
+toml = { version = "0.5", features = ["preserve_order"] }
 ```
