@@ -34,7 +34,7 @@ fn main() {
 }
 ```
 
-<! - more ->
+<!--more-->
 
 When I first encountered this problem, I thought there was a compilation error problem and LLVM generated an instruction that is not supported by my CPU. It was counterintuitive because I wasn't playing with `target-cpu` or anything like that, but the exception kept telling me
 
