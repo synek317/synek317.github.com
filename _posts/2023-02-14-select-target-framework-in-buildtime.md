@@ -31,7 +31,9 @@ tl;dr:
 </PropertyGroup>
 ```
 
-Solution that doesn't work:
+The above solution selects dynamically the target framework in the buildtime. Simple as that.
+
+Solutions that doesn't work:
 * `<TargetFrameworks>net461;net5;net6;net7</TargetFrameworks>`
 It basically tells dotnet to build for _all_ frameworks and not just for _one_ of them.
 * `dotnet build --framework xxx`
